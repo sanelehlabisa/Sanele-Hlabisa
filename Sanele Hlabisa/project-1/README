@@ -1,5 +1,0 @@
-The program generates a random number between 0 and 30 using the random module.
-The user is then promted to enter and integer, which the program will check if is the too low, low, same, high, too high compared to the randomly generated hiden number.
-The comparison is made by computing the difference between predicted and the randomly generated number.
-If this difference is within the range of 50% of the actual number, it is considered to be loser to the actual value, hence its either high or low ortherwise its too high.
-If the player guesses correctly, they receive a congratulatory message.

@@ -1,6 +1,0 @@
-This program process a series of commands for controlling a robot's movement on a grid. The commands are provided as a multiline string named `commands`. 
-The robot's position and direction are tracked using the `position` and `direction` variables. The script includes the `exec_command` function, which interprets and executes the commands to move the robot.
-The script parses the multiline command string, executing each command line by line. 
-The command lines consist of instructions to set the initial position and direction of the robot, move it, and change its direction. 
-The robot's movement is constrained by the grid boundaries defined by `X` and `Y`.
-To use the script, you can modify the `commands` variable with your desired commands, and the script will process them accordingly. This code is a basic implementation of a command interpreter for a simple robot, allowing you to experiment with different movement scenarios and grid boundaries.

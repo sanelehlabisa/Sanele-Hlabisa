@@ -1,6 +1,0 @@
-This Python script is designed to check the correctness of a given mathematical expression by examining its symbol balance. 
-It utilizes a list of open and close symbols, such as brackets, parentheses, and curly braces, and a list named `total` to keep track of their balance. 
-The `check_expression` function parses the input expression, updating the `total` list based on encountered symbols. 
-It ensures that the open and close symbols are balanced and nested correctly within the expression.
-To use this script, you can define a mathematical expression within the `expression` variable and then call the `check_expression` function to evaluate its correctness. 
-The code provides a practical tool for verifying the balance and correctness of mathematical expressions, returning `True` if the symbols are correctly balanced and `False` if they are not.
