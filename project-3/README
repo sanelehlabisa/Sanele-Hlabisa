@@ -1,0 +1,5 @@
+This program manages user browsing history through a set of Python functions. 
+It includes two primary functions: record(urls) and getHistory(History). 
+The record function takes a string of URLs as input and processes it to create a history list, preserving the order of website visits while removing duplicate entries. 
+Following this, the getHistory function formats the history as a string with '=>' separators, making it easy for users to access and review their browsing history in a structured and coherent manner. 
+Utilizing this script is as simple as defining a string of URLs, applying the record function to track the history, and then using the getHistory function to present the formatted history.
